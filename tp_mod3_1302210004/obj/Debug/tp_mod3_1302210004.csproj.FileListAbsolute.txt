@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\tp_mod3_1302210004\tp_mod3_1302210004\bin\Debug\tp_mod3_1302210004.exe.config
+C:\Users\ASUS\source\repos\tp_mod3_1302210004\tp_mod3_1302210004\bin\Debug\tp_mod3_1302210004.exe
+C:\Users\ASUS\source\repos\tp_mod3_1302210004\tp_mod3_1302210004\bin\Debug\tp_mod3_1302210004.pdb
+C:\Users\ASUS\source\repos\tp_mod3_1302210004\tp_mod3_1302210004\obj\Debug\tp_mod3_1302210004.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\tp_mod3_1302210004\tp_mod3_1302210004\obj\Debug\tp_mod3_1302210004.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\tp_mod3_1302210004\tp_mod3_1302210004\obj\Debug\tp_mod3_1302210004.Form1.resources
+C:\Users\ASUS\source\repos\tp_mod3_1302210004\tp_mod3_1302210004\obj\Debug\tp_mod3_1302210004.Properties.Resources.resources
+C:\Users\ASUS\source\repos\tp_mod3_1302210004\tp_mod3_1302210004\obj\Debug\tp_mod3_1302210004.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\tp_mod3_1302210004\tp_mod3_1302210004\obj\Debug\tp_mod3_1302210004.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\tp_mod3_1302210004\tp_mod3_1302210004\obj\Debug\tp_mod3_1302210004.exe
+C:\Users\ASUS\source\repos\tp_mod3_1302210004\tp_mod3_1302210004\obj\Debug\tp_mod3_1302210004.pdb

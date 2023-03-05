@@ -1,0 +1,6 @@
+*.log
+bin/
+temp/
+*.exe
+*.config
+
